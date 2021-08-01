@@ -26,7 +26,8 @@
  </div>
    
  
-  
+   ![Snake animation](https://github.com/DaneAlbuquerque/DaneAlbuquerque/blob/output/github-contribution-grid-snake.svg)
+ 
 
 
 
