@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working as a technical consultant in animal health as a veterinarian
 - 🌱 I’m currently learning html, css, javascript and python
-- 😄 Pronouns: ela/dela
 
 <div>
    <a href="https://github.com/danealbuquerque">
