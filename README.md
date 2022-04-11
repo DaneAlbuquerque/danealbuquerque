@@ -7,7 +7,7 @@
    <a href="https://github.com/danealbuquerque">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danealbuquerque&show-icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danealbuquerque&layout=compact&theme=cobalt"/>
-   <img aling="left" alt="DanePizza" src="https://media.giphy.com/media/g9vxpSbTjzc8r7rrEQ/giphy.gif" width="140" height="140">
+   <img aling="left" alt="DanePizza" src="<iframe src="https://giphy.com/embed/t2vdwzeFigJk3rgA2V" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cut-kawai-t2vdwzeFigJk3rgA2V"></a></p>" width="140" height="140">
 </div>
   
   ##
