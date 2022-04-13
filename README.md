@@ -4,9 +4,9 @@
 - 🌱 I’m currently learning html, css, javascript and python
 
 <div>
-   <a href="https://github.com/danealbuquerque">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danealbuquerque&show-icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danealbuquerque&layout=compact&theme=cobalt"/>
+   <a href="https://github.com/DaneAlbuquerque">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaneAlbuquerque&show-icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaneAlbuquerque&layout=compact&theme=cobalt"/>
   </div>
   
   ##
