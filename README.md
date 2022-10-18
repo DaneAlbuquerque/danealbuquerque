@@ -18,7 +18,7 @@
    <img aling="center" alt="DaneJavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
    </div>
    <div>
-   <img aling="right" src="https://media2.giphy.com/media/Ie2CYdsmeGnXtABaYt/giphy.gif?cid=790b7611d6921f6d9f6f2c21cb1b86bb3939cb78f86e8377&rid=giphy.gif&ct=g" width="120" height="120"  alt="DanePizza">
+   <img align="right" src="https://media2.giphy.com/media/Ie2CYdsmeGnXtABaYt/giphy.gif?cid=790b7611d6921f6d9f6f2c21cb1b86bb3939cb78f86e8377&rid=giphy.gif&ct=g" width="120" height="120"  alt="DanePizza">
    </div>
   
    ##
