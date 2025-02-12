@@ -18,7 +18,8 @@
    <img aling="center" alt="DaneJavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
    </div>
    <div>
-   <img align="right" src="https://i.picasion.com/pic92/e590813bd0732fc253cd815ffd5a76bb.gif" width="120" height="120"  alt="DanePizza">
+   <img align="right" src="https://i.picasion.com/pic92/86162be1ea451a9fb1f1abedbbf3b054.gif" width="120" height="120"  alt="DanePizza">
+   
    </div>
   
    ##
