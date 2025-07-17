@@ -1,7 +1,7 @@
 ### Hi there I'm Dane Albuquerque 👋
 
 - 🔭 Veterinarian and Dev Front-end.
-- 🌱 I’m currently learning JavaScript, Bootstrap, JQuery, Python.
+- 🌱 I'm always looking to learn more.
 
 <div>
    <a href="https://github.com/DaneAlbuquerque">
