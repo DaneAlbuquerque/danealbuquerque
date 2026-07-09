@@ -3,20 +3,9 @@
 - 🔭 Veterinarian and Dev Front-end.
 - 🌱 I'm always looking to learn more.
 
-<div>
-   <a href="https://github.com/DaneAlbuquerque">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaneAlbuquerque&show-icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaneAlbuquerque&layout=compact&theme=cobalt"/>
-  </div>
   
-  ##
    
- <div style="display: inline_block"><br>
-   <img aling="center" alt="DaneHtml" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> -
-   <img aling="center" alt="DaneCSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> -
-   <img aling="center" alt="DanePython" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> - 
-   <img aling="center" alt="DaneJavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-   </div>
+ 
    <div>
    <img align="right" src="https://i.picasion.com/pic92/86162be1ea451a9fb1f1abedbbf3b054.gif" width="120" height="120"  alt="DanePizza">
    
